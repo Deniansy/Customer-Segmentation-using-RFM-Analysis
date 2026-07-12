@@ -109,9 +109,6 @@ The business has a fairly large, engaged customer base with high-value average s
 - **Regency Cakestand 3 Tier** has the highest revenue despite moderate sales volume — indicating a premium price point.
 - Customers show a clear preference for decorative and gifting products (party/home decor items).
 
-> 📌 *Add your Power BI dashboard screenshots here, e.g.:*
-> `![Customer Segmentation Dashboard](assets/segmentation_dashboard.png)`
-
 ## ✍️ Recommendations
 
 **Loyalty & Retention**
