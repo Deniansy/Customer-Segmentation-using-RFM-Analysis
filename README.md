@@ -31,7 +31,7 @@ To address this, the company applies **RFM Analysis** to group customers into se
 
 ## 📊 Dataset Overview
 
-Dataset downloaded from **[Online Retail II UCI](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data)**.
+Dataset downloaded from **[Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data)**.
 
 | Column Name | Description |
 |---|---|
@@ -131,7 +131,5 @@ The business has a fairly large, engaged customer base with high-value average s
 
 ## 🔗 Related Links
 
-- 📄 [Presentation Slides (PDF)](./PPT_FINAL_PROJECT_DATA_ANALYST.pdf)
-- 📊 Full Power BI Dashboard *(add your link here)*
-- 🔬 Google Colab Notebook *(add your link here)*
-- 🌐 [My Portfolio Website](https://deniansy.github.io/portfolio/)
+- 📄 **[Presentation Slides (PDF)](https://drive.google.com/file/d/1Vl3H99ghlOyh7Zt6j1ZHqOZer1ycPDPj/view?usp=sharing)**
+- 🔬 **[Google Colab Notebook](https://colab.research.google.com/drive/1410HPLvRUb7_J0jC44Jzsg12IGkLSJyP?usp=sharing)**
