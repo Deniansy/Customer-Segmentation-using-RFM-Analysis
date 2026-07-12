@@ -31,7 +31,7 @@ To address this, the company applies **RFM Analysis** to group customers into se
 
 ## 📊 Dataset Overview
 
-Dataset downloaded from **[Kaggle – Online Retail II UCI](https://www.kaggle.com)**.
+Dataset downloaded from **https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data**.
 
 | Column Name | Description |
 |---|---|
